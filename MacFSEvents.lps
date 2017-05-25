@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="MacFSEvents.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="105"/>
+        <CursorPos X="61" Y="118"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/rtl/unix/sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="220"/>
+        <CursorPos X="90" Y="222"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/rtl/objpas/sysutils/sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="59"/>
+        <CursorPos X="93" Y="63"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="MacFSEvents.lpr"/>
+        <Caret Line="5" Column="22"/>
+      </Position1>
+      <Position2>
+        <Filename Value="MacFSEvents.lpr"/>
+        <Caret Line="433" TopLine="413"/>
+      </Position2>
+      <Position3>
+        <Filename Value="MacFSEvents.lpr"/>
+        <Caret Line="24" Column="10" TopLine="20"/>
+      </Position3>
+      <Position4>
+        <Filename Value="MacFSEvents.lpr"/>
+        <Caret Line="18" TopLine="14"/>
+      </Position4>
+      <Position5>
+        <Filename Value="MacFSEvents.lpr"/>
+        <Caret Line="20" Column="40"/>
+      </Position5>
+      <Position6>
+        <Filename Value="MacFSEvents.lpr"/>
+        <Caret Line="113" Column="21"/>
+      </Position6>
+      <Position7>
+        <Filename Value="MacFSEvents.lpr"/>
+        <Caret Line="25" Column="17" TopLine="17"/>
+      </Position7>
+      <Position8>
+        <Filename Value="MacFSEvents.lpr"/>
+        <Caret Line="20" Column="32" TopLine="110"/>
+      </Position8>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
